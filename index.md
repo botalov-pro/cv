@@ -9,3 +9,5 @@ _Software Project Manager based in Moscow, Russia_ <br>
 **Russian**: Native <br>
 **English**: B1
 <br><br>
+
+## Personal Information
